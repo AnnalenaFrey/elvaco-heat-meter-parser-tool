@@ -1,0 +1,17 @@
+{
+    "name": "uh30",
+    "version": "1.0.0",
+    "main": "src/uh30.js",
+    "type": "module",
+    "scripts": {
+      "test": "jest"
+    },
+    "keywords": [],
+    "author": "Annalena Frey",
+    "license": "ISC",
+    "description": "",
+    "devDependencies": {
+      "jest": "^29.7.0"
+    }
+  }
+  
